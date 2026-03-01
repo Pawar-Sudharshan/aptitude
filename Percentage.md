@@ -113,14 +113,27 @@ Required decrease = 25/125 × 100 = 20%
 
 ---
 
-# Practice Questions
+# Practice Questions with Detailed Explanation
 
 ## Q1
 
 What is 35% of 480?
 
-Answer:
-(35/100) × 480 = 168
+Step 1: Convert percentage into fraction
+
+35% = 35/100
+
+Step 2: Multiply with the number
+
+(35/100) × 480
+
+Step 3: Simplify
+
+480 / 100 = 4.8
+
+4.8 × 35 = 168
+
+Final Answer: **168**
 
 ---
 
@@ -128,9 +141,23 @@ Answer:
 
 A number increases from 250 to 325. Find the percentage increase.
 
-Increase = 75
+Step 1: Find the increase
 
-(75/250) × 100 = 30%
+Increase = New − Old
+
+= 325 − 250
+
+= 75
+
+Step 2: Divide by original value
+
+75 / 250 = 0.3
+
+Step 3: Convert to percentage
+
+0.3 × 100 = 30%
+
+Final Answer: **30% increase**
 
 ---
 
@@ -140,13 +167,29 @@ Population = 20000
 Increase 10% first year
 Increase 20% second year
 
-Year 1:
-20000 × 1.1 = 22000
+Step 1: First year increase
 
-Year 2:
-22000 × 1.2 = 26400
+10% = 10/100 = 0.1
 
-Final population = 26400
+New population after year 1
+
+20000 × (1 + 0.1)
+
+= 20000 × 1.1
+
+= 22000
+
+Step 2: Second year increase
+
+20% = 0.2
+
+22000 × (1 + 0.2)
+
+= 22000 × 1.2
+
+= 26400
+
+Final population after 2 years = **26400**
 
 ---
 
@@ -154,7 +197,23 @@ Final population = 26400
 
 A student scored 72 marks out of 90. Find the percentage.
 
-(72/90) × 100 = 80%
+Step 1: Write percentage formula
+
+Percentage = (obtained / total) × 100
+
+Step 2: Substitute values
+
+(72 / 90) × 100
+
+Step 3: Simplify fraction
+
+72/90 = 0.8
+
+Step 4: Convert to percentage
+
+0.8 × 100 = 80%
+
+Final Answer: **80%**
 
 ---
 
@@ -162,11 +221,27 @@ A student scored 72 marks out of 90. Find the percentage.
 
 A product price increased by 25%. What decrease returns it to original?
 
-Assume price = 100
-After increase = 125
+Step 1: Assume original price
 
-Decrease needed:
-(25/125) × 100 = 20%
+Let original price = 100
+
+Step 2: Apply increase
+
+25% increase
+
+100 × 1.25 = 125
+
+Step 3: Find decrease required to go from 125 back to 100
+
+Decrease = 25
+
+Step 4: Calculate percentage decrease based on new price
+
+(25 / 125) × 100
+
+= 20%
+
+Final Answer: **20% decrease**
 
 ---
 
@@ -174,18 +249,42 @@ Decrease needed:
 
 60% employees are men. Total employees = 240
 
-Women = 40%
+Step 1: Find percentage of women
+
+Women = 100% − 60%
+
+= 40%
+
+Step 2: Convert to decimal
+
+40% = 0.4
+
+Step 3: Multiply with total employees
 
 0.4 × 240 = 96
+
+Final Answer: **96 women**
 
 ---
 
 ## Q7
 
 Price reduced by 20%
-Original = 750
+Original price = 750
+
+Step 1: Convert percentage to decimal
+
+20% = 0.2
+
+Step 2: Subtract from 1
+
+1 − 0.2 = 0.8
+
+Step 3: Multiply with original price
 
 750 × 0.8 = 600
+
+Final Answer: **600**
 
 ---
 
@@ -193,12 +292,27 @@ Original = 750
 
 Number increased by 30% then decreased by 20%
 
-Assume number = 100
+Step 1: Assume original number
 
-After increase = 130
-After decrease = 130 × 0.8 = 104
+Let number = 100
 
-Net change = 4% increase
+Step 2: Apply 30% increase
+
+100 × 1.3 = 130
+
+Step 3: Apply 20% decrease
+
+130 × 0.8 = 104
+
+Step 4: Compare with original value
+
+104 − 100 = 4
+
+Step 5: Convert to percentage
+
+(4 / 100) × 100 = 4%
+
+Final Result: **4% increase overall**
 
 ---
 
@@ -206,10 +320,25 @@ Net change = 4% increase
 
 40% students failed
 60% passed
-
 Passed students = 180
 
-Total students = 180 / 0.6 = 300
+Step 1: Understand that 60% of total students passed
+
+Step 2: Let total students = x
+
+60% of x = 180
+
+Step 3: Convert percentage
+
+0.6x = 180
+
+Step 4: Solve equation
+
+x = 180 / 0.6
+
+x = 300
+
+Final Answer: **300 students**
 
 ---
 
@@ -217,9 +346,21 @@ Total students = 180 / 0.6 = 300
 
 Salary increased from 40,000 to 50,000
 
-Increase = 10,000
+Step 1: Find increase
 
-(10000 / 40000) × 100 = 25%
+Increase = 50000 − 40000
+
+= 10000
+
+Step 2: Divide by original salary
+
+10000 / 40000 = 0.25
+
+Step 3: Convert to percentage
+
+0.25 × 100 = 25%
+
+Final Answer: **25% increase**
 
 ---
 
