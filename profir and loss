@@ -1,0 +1,314 @@
+# Profit & Loss – Complete Concept Sheet (Placement Aptitude)
+
+This sheet explains all core Profit & Loss concepts clearly with examples. Read once before solving questions.
+
+---
+
+# 1. Basic Terms
+
+**Cost Price (CP)**
+
+The price at which a product is purchased.
+
+Example:
+If a shopkeeper buys a phone for 8000, then
+
+CP = 8000
+
+---
+
+**Selling Price (SP)**
+
+The price at which the product is sold.
+
+Example:
+If the phone is sold for 9200
+
+SP = 9200
+
+---
+
+**Profit (Gain)**
+
+When selling price is greater than cost price.
+
+Profit = SP − CP
+
+Example:
+
+CP = 800
+SP = 920
+
+Profit = 920 − 800 = 120
+
+---
+
+**Loss**
+
+When selling price is less than cost price.
+
+Loss = CP − SP
+
+Example:
+
+CP = 1500
+SP = 1200
+
+Loss = 1500 − 1200 = 300
+
+---
+
+# 2. Profit Percentage
+
+Profit % = (Profit / CP) × 100
+
+Important rule:
+Profit percentage is always calculated on **Cost Price**.
+
+Example
+
+CP = 800
+SP = 920
+
+Step 1: Find profit
+
+Profit = 920 − 800 = 120
+
+Step 2: Apply formula
+
+Profit % = (120 / 800) × 100
+
+= 0.15 × 100
+
+= **15% profit**
+
+---
+
+# 3. Loss Percentage
+
+Loss % = (Loss / CP) × 100
+
+Example
+
+CP = 1500
+SP = 1200
+
+Step 1: Find loss
+
+Loss = 1500 − 1200 = 300
+
+Step 2: Apply formula
+
+Loss % = (300 / 1500) × 100
+
+= 0.2 × 100
+
+= **20% loss**
+
+---
+
+# 4. Finding Selling Price (SP)
+
+If profit % is given
+
+SP = CP × (1 + Profit%/100)
+
+Example
+
+CP = 2000
+Profit = 15%
+
+Step 1: Convert percentage
+
+15% = 0.15
+
+Step 2: Apply formula
+
+SP = 2000 × (1 + 0.15)
+
+SP = 2000 × 1.15
+
+SP = **2300**
+
+---
+
+If loss % is given
+
+SP = CP × (1 − Loss%/100)
+
+Example
+
+CP = 1200
+Loss = 10%
+
+Step 1
+
+10% = 0.10
+
+Step 2
+
+SP = 1200 × (1 − 0.10)
+
+SP = 1200 × 0.9
+
+SP = **1080**
+
+---
+
+# 5. Finding Cost Price (Reverse Problems)
+
+These appear frequently in placement tests.
+
+If SP and profit % are given
+
+CP = SP / (1 + Profit%/100)
+
+Example
+
+SP = 2400
+Profit = 20%
+
+Step 1
+
+1 + 20/100 = 1.2
+
+Step 2
+
+CP = 2400 / 1.2
+
+CP = **2000**
+
+---
+
+If SP and loss % are given
+
+CP = SP / (1 − Loss%/100)
+
+Example
+
+SP = 1800
+Loss = 10%
+
+Step 1
+
+1 − 10/100 = 0.9
+
+Step 2
+
+CP = 1800 / 0.9
+
+CP = **2000**
+
+---
+
+# 6. Discount Concept
+
+Marked Price (MP) = price printed on product.
+
+Discount = reduction on marked price.
+
+Selling Price Formula
+
+SP = MP × (1 − Discount/100)
+
+Example
+
+MP = 2000
+Discount = 15%
+
+Step 1
+
+15% = 0.15
+
+Step 2
+
+SP = 2000 × (1 − 0.15)
+
+SP = 2000 × 0.85
+
+SP = **1700**
+
+---
+
+# 7. Successive Profit and Loss Trick
+
+If profit = x% and loss = y%
+
+Net change = x − y − (xy / 100)
+
+Example
+
+Increase 10% then decrease 10%
+
+Net change =
+
+10 − 10 − (100 / 100)
+
+= −1%
+
+Final result = **1% loss**
+
+This is a very common aptitude trap.
+
+---
+
+# 8. Gain on SP vs Gain on CP
+
+Profit percentage is normally calculated on **CP**.
+
+But sometimes questions say profit on **SP**.
+
+Example
+
+SP = 100
+Profit = 25% of SP
+
+Profit = 25
+
+CP = SP − Profit
+
+CP = 100 − 25
+
+CP = 75
+
+Now calculate profit % on CP
+
+Profit % = (25 / 75) × 100
+
+= **33.33%**
+
+---
+
+# 9. Important Quick Tricks
+
+Remember these:
+
+CP = SP / (1 + profit%)
+
+CP = SP / (1 − loss%)
+
+SP = CP × (1 + profit%)
+
+SP = CP × (1 − loss%)
+
+SP = MP × (1 − discount%)
+
+---
+
+# 10. Golden Strategy for Solving Questions
+
+Step 1
+
+Identify what is given: CP, SP, MP, Profit%, Loss%, Discount
+
+Step 2
+
+Find missing value using formula.
+
+Step 3
+
+If confused, assume CP = 100.
+
+This makes percentage calculations very easy.
+
+---
