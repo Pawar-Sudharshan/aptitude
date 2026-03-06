@@ -1,0 +1,372 @@
+# Averages Quick Sheet for Aptitude Tests
+
+## 1. What is Average?
+
+Average represents the **central value of a group of numbers**.
+
+It tells us what the value would be if all numbers were **equal**.
+
+### Formula
+
+Average = (Sum of all values) / (Number of values)
+
+Example:
+
+Numbers: 10, 20, 30
+
+Sum = 10 + 20 + 30 = 60
+
+Average = 60 / 3 = **20**
+
+---
+
+# Core Formulas
+
+## 1. Basic Average
+
+Average = Sum / Number of items
+
+Example:
+
+Find average of 12, 18, 20, 10
+
+Sum = 12 + 18 + 20 + 10 = 60
+
+Average = 60 / 4 = **15**
+
+---
+
+## 2. Find Total Using Average
+
+Total = Average × Number of items
+
+Example:
+
+Average marks = 70
+Students = 8
+
+Total marks = 70 × 8 = **560**
+
+---
+
+## 3. New Average After Adding One Value
+
+New Average = (Old Sum + New value) / New number
+
+Example:
+
+Average of 5 numbers = 20
+
+Total = 5 × 20 = 100
+
+Add number 40
+
+New sum = 100 + 40 = 140
+
+New average = 140 / 6 = **23.33**
+
+---
+
+## 4. New Average After Removing One Value
+
+New Average = (Old Sum − Removed value) / New number
+
+Example:
+
+Average of 6 numbers = 15
+
+Total = 6 × 15 = 90
+
+Remove number 12
+
+New sum = 90 − 12 = 78
+
+New average = 78 / 5 = **15.6**
+
+---
+
+# Important Tricks
+
+## Trick 1: Equal Difference Rule
+
+If numbers increase by the **same difference**, the average is the **middle number**.
+
+Example:
+
+10, 20, 30, 40, 50
+
+Average = **30**
+
+(No calculation needed)
+
+---
+
+## Trick 2: Average of Consecutive Numbers
+
+Average of consecutive numbers = **middle number**
+
+Example:
+
+21, 22, 23, 24, 25
+
+Average = **23**
+
+---
+
+## Trick 3: Combined Average
+
+When two groups combine:
+
+Combined Average = (Total1 + Total2) / (Total items)
+
+Example:
+
+Class A average = 60 (20 students)
+
+Class B average = 70 (30 students)
+
+Total marks A = 60 × 20 = 1200
+
+Total marks B = 70 × 30 = 2100
+
+Combined average
+
+= (1200 + 2100) / 50
+
+= **66**
+
+---
+
+# Important Placement Question Types
+
+Companies often ask these patterns:
+
+1️⃣ Find missing number using average
+2️⃣ New average after adding/removing number
+3️⃣ Average of groups (combined average)
+4️⃣ Average age problems
+5️⃣ Consecutive number averages
+
+---
+
+# Practice Questions with Detailed Explanation
+
+## Q1
+
+Find the average of:
+
+12, 18, 24, 30, 36
+
+Step 1: Find sum
+
+12 + 18 + 24 + 30 + 36 = 120
+
+Step 2: Count numbers
+
+Total numbers = 5
+
+Step 3: Divide
+
+Average = 120 / 5 = **24**
+
+---
+
+## Q2
+
+Average of 6 numbers is 40.
+Find the total sum.
+
+Step 1: Use formula
+
+Total = Average × Count
+
+Step 2: Substitute values
+
+Total = 40 × 6
+
+Total = **240**
+
+---
+
+## Q3
+
+Average of 5 numbers is 18.
+A new number 28 is added.
+Find the new average.
+
+Step 1: Find old sum
+
+5 × 18 = 90
+
+Step 2: Add new number
+
+New sum = 90 + 28 = 118
+
+Step 3: New count
+
+6 numbers
+
+Step 4: New average
+
+118 / 6 = **19.67**
+
+---
+
+## Q4
+
+Average age of 8 students = 16.
+One student leaves whose age is 20.
+Find new average.
+
+Step 1: Total age
+
+8 × 16 = 128
+
+Step 2: Remove age
+
+128 − 20 = 108
+
+Step 3: New number of students
+
+7
+
+Step 4: New average
+
+108 / 7 = **15.43**
+
+---
+
+## Q5
+
+Average of first 10 natural numbers.
+
+Numbers:
+
+1 to 10
+
+Use shortcut
+
+Average = (First + Last) / 2
+
+= (1 + 10) / 2
+
+= **5.5**
+
+---
+
+## Q6
+
+Average marks of 20 students = 60.
+5 new students join with average 80.
+Find new class average.
+
+Step 1: Total marks of first group
+
+60 × 20 = 1200
+
+Step 2: Total marks of new students
+
+80 × 5 = 400
+
+Step 3: Combined marks
+
+1200 + 400 = 1600
+
+Step 4: Total students
+
+25
+
+Step 5: Combined average
+
+1600 / 25 = **64**
+
+---
+
+## Q7
+
+Average of 4 numbers is 25.
+Three numbers are 20, 30, 40.
+Find the fourth number.
+
+Step 1: Total sum
+
+25 × 4 = 100
+
+Step 2: Sum of known numbers
+
+20 + 30 + 40 = 90
+
+Step 3: Missing number
+
+100 − 90 = **10**
+
+---
+
+## Q8
+
+Average of 7 numbers = 50.
+If one number 70 is replaced by 35, find new average.
+
+Step 1: Total sum
+
+7 × 50 = 350
+
+Step 2: Replace number
+
+350 − 70 + 35 = 315
+
+Step 3: New average
+
+315 / 7 = **45**
+
+---
+
+## Q9
+
+Average of 3 numbers = 40
+Average of next 3 numbers = 60
+
+Find average of all numbers.
+
+Step 1: Total1
+
+3 × 40 = 120
+
+Step 2: Total2
+
+3 × 60 = 180
+
+Step 3: Combined total
+
+120 + 180 = 300
+
+Step 4: Total numbers
+
+6
+
+Average = 300 / 6 = **50**
+
+---
+
+## Q10
+
+Average of 5 consecutive numbers.
+Middle number is 28.
+
+Using shortcut:
+
+Average of consecutive numbers = middle number
+
+Answer = **28**
+
+---
+
+# Key Takeaways
+
+Remember these fast formulas:
+
+Average = Sum / Count
+Total = Average × Count
+New average problems require **recalculating the total first**.
+
+---
