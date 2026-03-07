@@ -1,0 +1,181 @@
+# Time and Work – Quick Revision Sheet
+
+## 1. Basic Concept
+
+If a person completes a work in **N days**:
+
+Work done in **1 day = 1 / N**
+
+Example:
+A completes work in 5 days
+
+1 day work = 1/5
+
+Total work = 1
+
+---
+
+## 2. Work Done Together
+
+If A takes **x days** and B takes **y days**:
+
+(A + B) one day work =
+
+1/x + 1/y
+
+Time together =
+
+1 / (1/x + 1/y)
+
+Example:
+A = 6 days
+B = 3 days
+
+1 day work = 1/6 + 1/3 = 1/2
+
+Time required = 2 days
+
+---
+
+## 3. LCM Method (Fastest for Aptitude)
+
+Take **LCM of individual days as Total Work**.
+
+Example:
+A = 6 days
+B = 3 days
+
+Total Work = LCM(6,3) = 6
+
+Efficiency:
+
+A = 1 unit/day
+B = 2 units/day
+
+Together = 3 units/day
+
+Time = 6 / 3 = **2 days**
+
+---
+
+## 4. Worker Leaving Problems
+
+Steps:
+
+1. Assume total work using **LCM**.
+2. Calculate work done until someone leaves.
+3. Remaining work done by remaining workers.
+
+Example:
+A = 10 days
+B = 15 days
+
+LCM = 30
+
+Efficiency:
+
+A = 3
+B = 2
+
+Together = 5
+
+If both work 3 days:
+
+Work done = 3 × 5 = 15
+
+Remaining = 15
+
+A alone:
+
+Time = 15 / 3 = **5 days**
+
+Total time = **8 days**
+
+---
+
+## 5. Efficiency Concept
+
+Efficiency is **inversely proportional to time**.
+
+If:
+
+A takes 10 days
+B takes 5 days
+
+Efficiency ratio:
+
+A : B = 1/10 : 1/5 = 1 : 2
+
+So **B is twice as efficient as A**.
+
+---
+
+## 6. Workers vs Time Relation
+
+Workers × Days = Constant
+
+If workers increase → days decrease.
+
+Example:
+10 workers finish work in 12 days.
+
+20 workers will take:
+
+(10 × 12) / 20 = **6 days**
+
+---
+
+## 7. Pipes and Cisterns
+
+Same as Time & Work.
+
+Pipe filling = **positive work**
+Pipe emptying = **negative work**
+
+Example:
+Pipe A fills tank in 6 hrs
+Pipe B empties in 12 hrs
+
+Net work per hour:
+
+1/6 − 1/12 = 1/12
+
+Tank fills in **12 hours**
+
+---
+
+## 8. Quick Tricks for Placements
+
+• Always try **LCM method first**
+• Convert time into **efficiency**
+• Use **unit work approach**
+• Leaving problems → calculate **remaining work**
+• Pipes → treat emptying as **negative work**
+
+---
+
+## 9. Most Common Question Types
+
+1. Two people working together
+2. One worker leaves midway
+3. Efficiency comparison
+4. Men–Days problems
+5. Pipes filling/emptying
+
+---
+
+## 10. 30‑Second Formula Revision
+
+1 day work = 1 / days
+
+A + B work = 1/x + 1/y
+
+Efficiency ∝ 1/time
+
+Workers × Days = constant
+
+Pipes:
+
+Net work = Filling − Emptying
+
+---
